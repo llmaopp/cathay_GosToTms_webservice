@@ -1,0 +1,39 @@
+main:
+ spring.main.allow-bean-definition-overriding: true
+
+spring.jpa.open-in-view: true
+
+## 启动配置
+server:
+    port: 8084
+    maxHttpHeaderSize: 10240000
+    maxHttpPostSize: 10240000
+    tomcat:
+     maxHttpHeaderSize: 10240000
+     maxHttpPostSize: 10240000
+
+## 订阅端监听 ip 与端口号
+serverZmq:
+      serverZmqIp: 192.168.1.119
+      serverZmqHost: 15555
+## 发布端监听 ip 与端口号
+clientZmq:
+      clientZmqIp: 192.168.1.137
+      clientZmqHost: 155559
+
+##第三方接口地址
+interfaceUrl:
+            OcrUrl: https://getman.cn/mock/OcrUrl
+            DamageInspectionUrl: http://192.168.1.137:8083/getMap
+            TroScreenUpdateUrl: https://getman.cn/mock/TroScreenUpdateUrl
+            TruckTriggerUrl: https://getman.cn/mock/TruckTriggerUrl
+            MoveStatusUpdateUrl: https://getman.cn/mock/MoveStatusUpdateUrl
+            TruckInfoUrl: https://getman.cn/mock/TruckInfoUrl
+            EmptyInspectionDataUrl: https://getman.cn/mock/EmptyInspectionDataUrl
+            ContextDataUrl: https://getman.cn/mock/ContextDataUrl
+            GateDataUrl: https://getman.cn/mock/GateDataUrl
+            LaneEntryUrl: https://getman.cn/mock/LaneEntryUrl
+            transferDataUrl: https://getman.cn/mock/transferDataUrl
+            OcrDataGtUrl: https://getman.cn/mock/OcrDataGtUrl
+
+

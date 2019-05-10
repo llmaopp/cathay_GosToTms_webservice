@@ -1,0 +1,3824 @@
+2019-05-05 10:12:23.730 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557051150
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505101230"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:12:55.644 [scheduling-1                  ] [INFO ] - 删除缓存gosAny0 
+2019-05-05 10:12:55.651 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557051159
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505101239"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:13:36.922 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557051223
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505101343"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:13:42.403 [scheduling-1                  ] [INFO ] - 删除缓存gosAny0 
+2019-05-05 10:13:42.403 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557051223
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505101343"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:13:54.865 [scheduling-1                  ] [INFO ] - 删除缓存gosAny0 
+2019-05-05 10:13:54.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557051228
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505101348"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:14:45.301 [scheduling-1                  ] [INFO ] - 删除缓存gosAny5 
+2019-05-05 10:14:45.304 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557051227
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505101347"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:19:43.109 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557051589
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505101949"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:19:53.575 [scheduling-1                  ] [INFO ] - 删除缓存gosAny0 
+2019-05-05 10:19:53.577 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557051589
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505101949"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:51:00.816 [scheduling-1                  ] [INFO ] - 删除缓存gosAny0 
+2019-05-05 10:51:00.819 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557051599
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505101959"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:51:21.601 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557053488
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505105128"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:51:25.149 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557053488
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505105128"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:51:28.187 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557053488
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505105128"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:51:31.236 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557053488
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505105128"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:51:34.288 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557053497
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505105137"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:51:37.339 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557053497
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505105137"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:52:20.813 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557053547
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505105227"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:54:22.376 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557053668
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505105428"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:54:46.017 [scheduling-1                  ] [INFO ] - 删除缓存gosAny0 
+2019-05-05 10:54:46.019 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557053677
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505105437"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:55:03.888 [scheduling-1                  ] [INFO ] - 删除缓存gosAny9 
+2019-05-05 10:55:03.889 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557053676
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505105436"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:55:05.570 [scheduling-1                  ] [INFO ] - 删除缓存gosAny8 
+2019-05-05 10:55:05.574 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557053675
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505105435"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:59:47.030 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557053992
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505105952"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 10:59:58.204 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054002
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110002"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:00:46.145 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054002
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110002"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:01:25.416 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054091
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110131"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:01:35.546 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054091
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110131"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:02:02.873 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054100
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110140"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:04:25.807 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054271
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110431"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:04:33.331 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054271
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110431"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:05:40.009 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054346
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110546"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:05:51.250 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054355
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110555"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:06:50.109 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054355
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110555"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:07:16.102 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054355
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110555"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:07:42.510 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054468
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110748"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:07:53.769 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054477
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110757"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:08:50.821 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054536
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110856"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:08:58.641 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054536
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505110856"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:10:17.175 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054623
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505111023"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:10:25.347 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054623
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505111023"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:11:55.597 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054632
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505111032"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:12:00.834 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054654
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505111054"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:13:34.575 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054654
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505111054"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:13:47.385 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557054654
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505111054"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:17:12.227 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557055032
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505111712"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:17:36.252 [scheduling-1                  ] [INFO ] - 删除缓存gosAny0 
+2019-05-05 11:17:36.252 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557055041
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505111721"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:18:15.482 [scheduling-1                  ] [INFO ] - 删除缓存gosAny9 
+2019-05-05 11:18:15.483 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557055040
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505111720"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:22:44.011 [scheduling-1                  ] [INFO ] - 删除缓存gosAny8 
+2019-05-05 11:22:44.012 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557055039
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505111719"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:26:55.667 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557055615
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505112655"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:27:35.743 [scheduling-1                  ] [INFO ] - 删除缓存gosAny0 
+2019-05-05 11:27:35.743 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557055624
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505112704"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 11:31:47.677 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557055907
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505113147"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:23:38.369 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062618
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132338"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:23:39.102 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection0 
+2019-05-05 13:23:39.265 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062619
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132339"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:23:39.429 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection1 
+2019-05-05 13:23:40.265 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062620
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132340"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:23:40.430 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection2 
+2019-05-05 13:23:41.264 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062621
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132341"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:23:41.405 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection3 
+2019-05-05 13:23:42.265 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062622
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132342"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:23:42.349 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection4 
+2019-05-05 13:23:43.264 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062623
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132343"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:23:43.385 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection5 
+2019-05-05 13:23:44.264 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062624
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132344"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:23:44.375 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection6 
+2019-05-05 13:23:45.265 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062625
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132345"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:23:45.374 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection7 
+2019-05-05 13:24:07.866 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062647
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132407"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:24:08.015 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection8 
+2019-05-05 13:24:17.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062657
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132417"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:24:17.965 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection9 
+2019-05-05 13:24:27.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062667
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132427"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:24:27.984 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection10 
+2019-05-05 13:24:37.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062677
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132437"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:24:37.982 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection11 
+2019-05-05 13:24:47.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062687
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132447"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:24:47.987 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection12 
+2019-05-05 13:24:57.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062697
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132457"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:24:57.981 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection13 
+2019-05-05 13:25:07.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062707
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132507"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:25:07.975 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection14 
+2019-05-05 13:25:17.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062717
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132517"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:25:17.996 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection15 
+2019-05-05 13:25:27.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062727
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132527"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:25:28.010 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection16 
+2019-05-05 13:25:37.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062737
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132537"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:25:37.977 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection17 
+2019-05-05 13:25:47.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062747
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132547"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:25:47.973 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection18 
+2019-05-05 13:25:57.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062757
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132557"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:25:58.004 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection19 
+2019-05-05 13:26:07.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062767
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132607"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:26:07.954 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection20 
+2019-05-05 13:26:17.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062777
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132617"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:26:17.966 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection21 
+2019-05-05 13:26:27.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062787
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132627"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:26:27.971 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection22 
+2019-05-05 13:26:37.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062797
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132637"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:26:37.983 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection23 
+2019-05-05 13:26:47.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062807
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132647"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:26:47.997 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection24 
+2019-05-05 13:26:57.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062817
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132657"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:26:57.989 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection25 
+2019-05-05 13:27:07.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062827
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132707"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:27:07.976 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection26 
+2019-05-05 13:27:17.874 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062837
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132717"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:27:18.012 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection27 
+2019-05-05 13:27:27.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062847
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132727"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:27:27.999 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection28 
+2019-05-05 13:27:37.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062857
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132737"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:27:37.968 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection29 
+2019-05-05 13:27:47.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062867
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132747"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:27:47.972 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection30 
+2019-05-05 13:27:57.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062877
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132757"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:27:57.970 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection31 
+2019-05-05 13:28:07.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062887
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132807"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:28:07.966 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection32 
+2019-05-05 13:28:17.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062897
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132817"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:28:17.954 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection33 
+2019-05-05 13:28:27.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062907
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132827"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:28:27.947 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection34 
+2019-05-05 13:28:37.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062917
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132837"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:28:37.972 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection35 
+2019-05-05 13:28:47.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062927
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132847"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:28:47.968 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection36 
+2019-05-05 13:28:57.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062937
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132857"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:28:57.947 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection37 
+2019-05-05 13:29:07.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062947
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132907"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:29:07.944 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection38 
+2019-05-05 13:29:17.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062957
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132917"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:29:17.964 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection39 
+2019-05-05 13:29:27.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062967
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132927"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:29:27.960 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection40 
+2019-05-05 13:29:37.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062977
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132937"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:29:37.947 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection41 
+2019-05-05 13:29:47.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062987
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132947"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:29:47.946 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection42 
+2019-05-05 13:29:57.866 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557062997
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505132957"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:29:57.999 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection43 
+2019-05-05 13:30:07.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063007
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133007"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:30:07.999 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection44 
+2019-05-05 13:30:17.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063017
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133017"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:30:17.961 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection45 
+2019-05-05 13:30:27.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063027
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133027"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:30:27.957 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection46 
+2019-05-05 13:30:37.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063037
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133037"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:30:37.973 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection47 
+2019-05-05 13:30:47.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063047
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133047"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:30:47.945 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection48 
+2019-05-05 13:30:57.866 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063057
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133057"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:30:57.965 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection49 
+2019-05-05 13:31:07.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063067
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133107"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:31:07.970 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection50 
+2019-05-05 13:31:17.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063077
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133117"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:31:17.998 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection51 
+2019-05-05 13:31:27.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063087
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133127"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:31:27.980 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection52 
+2019-05-05 13:31:37.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063097
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133137"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:31:37.976 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection53 
+2019-05-05 13:31:47.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063107
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133147"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:31:47.977 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection54 
+2019-05-05 13:31:57.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063117
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133157"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:31:57.938 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection55 
+2019-05-05 13:32:07.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063127
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133207"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:32:07.940 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection56 
+2019-05-05 13:32:17.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063137
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133217"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:32:17.940 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection57 
+2019-05-05 13:32:27.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063147
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133227"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:32:27.951 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection58 
+2019-05-05 13:32:37.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063157
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133237"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:32:37.957 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection59 
+2019-05-05 13:32:47.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063167
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133247"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:32:47.993 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection60 
+2019-05-05 13:32:57.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063177
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133257"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:32:57.997 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection61 
+2019-05-05 13:33:07.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063187
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133307"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:33:07.961 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection62 
+2019-05-05 13:33:17.866 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063197
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133317"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:33:17.984 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection63 
+2019-05-05 13:33:27.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063207
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133327"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:33:27.978 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection64 
+2019-05-05 13:33:37.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063217
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133337"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:33:37.974 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection65 
+2019-05-05 13:33:47.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063227
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133347"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:33:47.970 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection66 
+2019-05-05 13:33:57.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063237
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133357"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:33:58.000 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection67 
+2019-05-05 13:34:07.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063247
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133407"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:34:07.968 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection68 
+2019-05-05 13:34:17.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063257
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133417"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:34:17.973 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection69 
+2019-05-05 13:34:27.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063267
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133427"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:34:27.986 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection70 
+2019-05-05 13:34:37.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063277
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133437"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:34:38.015 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection71 
+2019-05-05 13:34:47.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063287
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133447"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:34:47.980 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection72 
+2019-05-05 13:34:57.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063297
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133457"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:34:57.981 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection73 
+2019-05-05 13:35:07.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063307
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133507"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:35:07.984 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection74 
+2019-05-05 13:35:17.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063317
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133517"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:35:17.982 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection75 
+2019-05-05 13:35:27.867 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063327
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133527"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:35:28.025 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection76 
+2019-05-05 13:35:37.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063337
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133537"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:35:37.963 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection77 
+2019-05-05 13:35:47.866 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063347
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133547"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:35:47.949 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection78 
+2019-05-05 13:35:57.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063357
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133557"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:35:57.963 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection79 
+2019-05-05 13:36:07.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063367
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133607"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:36:08.062 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection80 
+2019-05-05 13:36:17.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063377
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133617"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:36:17.959 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection81 
+2019-05-05 13:36:27.872 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063387
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133627"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:36:27.985 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection82 
+2019-05-05 13:36:37.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063397
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133637"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:36:37.974 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection83 
+2019-05-05 13:36:47.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063407
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133647"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:36:47.983 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection84 
+2019-05-05 13:36:57.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063417
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133657"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:36:57.983 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection85 
+2019-05-05 13:37:07.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063427
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133707"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:37:07.987 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection86 
+2019-05-05 13:37:17.864 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063437
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133717"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:37:17.949 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection87 
+2019-05-05 13:37:27.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063447
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133727"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:37:27.947 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection88 
+2019-05-05 13:37:37.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063457
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133737"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:37:37.999 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection89 
+2019-05-05 13:37:47.966 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063467
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133747"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:37:48.112 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection90 
+2019-05-05 13:37:57.866 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063477
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133757"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:37:58.060 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection91 
+2019-05-05 13:38:07.865 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063487
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133807"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:38:07.977 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection92 
+2019-05-05 13:38:17.966 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063497
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133817"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:38:18.074 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection93 
+2019-05-05 13:38:27.965 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063507
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133827"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:38:28.067 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection94 
+2019-05-05 13:38:37.965 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063517
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133837"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:38:38.078 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection95 
+2019-05-05 13:38:47.966 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063527
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133847"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:38:48.072 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection96 
+2019-05-05 13:38:57.965 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063537
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133857"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:38:58.037 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection97 
+2019-05-05 13:39:07.964 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063547
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133907"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:39:08.087 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection98 
+2019-05-05 13:39:17.964 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063557
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133917"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:39:18.090 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection99 
+2019-05-05 13:39:27.964 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063567
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133927"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:39:58.136 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063597
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505133957"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:39:58.958 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection0 
+2019-05-05 13:40:07.917 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063607
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134007"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:40:08.030 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection1 
+2019-05-05 13:40:17.917 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063617
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134017"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:40:18.040 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection2 
+2019-05-05 13:40:27.917 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063627
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134027"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:40:28.058 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection3 
+2019-05-05 13:40:37.917 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063637
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134037"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:40:38.000 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection4 
+2019-05-05 13:40:47.917 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557063647
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134047"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:40:48.027 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection5 
+2019-05-05 13:48:08.275 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064088
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134808"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:48:09.439 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection0 
+2019-05-05 13:48:18.068 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064098
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134818"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:48:18.205 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection1 
+2019-05-05 13:48:28.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064108
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134828"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:48:28.200 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection2 
+2019-05-05 13:48:38.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064118
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134838"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:48:38.196 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection3 
+2019-05-05 13:48:48.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064128
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134848"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:48:48.167 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection4 
+2019-05-05 13:48:58.104 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064138
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134858"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:48:58.383 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection5 
+2019-05-05 13:49:08.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064148
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134908"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:49:08.166 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection6 
+2019-05-05 13:49:18.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064158
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134918"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:49:18.215 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection7 
+2019-05-05 13:49:28.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064168
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134928"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:49:28.179 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection8 
+2019-05-05 13:49:38.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064178
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134938"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:49:38.224 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection9 
+2019-05-05 13:49:48.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064188
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134948"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:49:48.172 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection10 
+2019-05-05 13:49:58.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064198
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505134958"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:49:58.189 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection11 
+2019-05-05 13:50:08.068 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064208
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135008"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:50:08.210 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection12 
+2019-05-05 13:50:18.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064218
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135018"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:50:18.184 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection13 
+2019-05-05 13:50:28.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064228
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135028"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:50:28.177 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection14 
+2019-05-05 13:50:38.068 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064238
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135038"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:50:38.195 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection15 
+2019-05-05 13:50:48.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064248
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135048"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:50:48.148 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection16 
+2019-05-05 13:50:58.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064258
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135058"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:50:58.183 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection17 
+2019-05-05 13:51:08.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064268
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135108"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:51:08.213 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection18 
+2019-05-05 13:51:18.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064278
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135118"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:51:18.182 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection19 
+2019-05-05 13:51:28.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064288
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135128"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:51:28.201 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection20 
+2019-05-05 13:51:38.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064298
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135138"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:51:38.190 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection21 
+2019-05-05 13:51:48.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064308
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135148"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:51:48.176 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection22 
+2019-05-05 13:51:58.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064318
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135158"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:51:58.180 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection23 
+2019-05-05 13:52:08.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064328
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135208"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:52:08.191 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection24 
+2019-05-05 13:52:18.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064338
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135218"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:52:18.186 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection25 
+2019-05-05 13:52:28.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064348
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135228"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:52:28.186 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection26 
+2019-05-05 13:52:38.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064358
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135238"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:52:38.179 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection27 
+2019-05-05 13:52:48.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064368
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135248"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:52:48.216 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection28 
+2019-05-05 13:52:58.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064378
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135258"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:52:58.182 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection29 
+2019-05-05 13:53:08.068 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064388
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135308"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:53:08.178 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection30 
+2019-05-05 13:53:18.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064398
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135318"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:53:18.142 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection31 
+2019-05-05 13:53:28.069 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064408
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135328"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:53:28.177 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection32 
+2019-05-05 13:53:38.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064418
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135338"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:53:38.185 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection33 
+2019-05-05 13:53:48.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064428
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135348"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:53:48.153 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection34 
+2019-05-05 13:53:58.068 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064438
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135358"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:53:58.211 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection35 
+2019-05-05 13:54:08.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064448
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135408"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:54:08.156 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection36 
+2019-05-05 13:54:18.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064458
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135418"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:54:18.175 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection37 
+2019-05-05 13:54:28.068 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064468
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135428"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:54:28.202 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection38 
+2019-05-05 13:54:38.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064478
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135438"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:54:38.172 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection39 
+2019-05-05 13:54:48.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064488
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135448"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:54:48.195 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection40 
+2019-05-05 13:54:58.068 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064498
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135458"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:54:58.206 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection41 
+2019-05-05 13:55:08.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064508
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135508"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:55:08.181 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection42 
+2019-05-05 13:55:18.068 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064518
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135518"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:55:18.222 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection43 
+2019-05-05 13:55:28.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064528
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135528"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:55:28.201 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection44 
+2019-05-05 13:55:38.068 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064538
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135538"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:55:38.194 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection45 
+2019-05-05 13:55:48.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064548
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135548"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:55:48.158 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection46 
+2019-05-05 13:55:58.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064558
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135558"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:55:58.175 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection47 
+2019-05-05 13:56:08.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064568
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135608"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:56:08.174 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection48 
+2019-05-05 13:56:18.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064578
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135618"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:56:18.179 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection49 
+2019-05-05 13:56:28.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064588
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135628"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:56:28.150 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection50 
+2019-05-05 13:56:38.068 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064598
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135638"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:56:38.176 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection51 
+2019-05-05 13:56:48.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064608
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135648"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:56:48.189 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection52 
+2019-05-05 13:56:58.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064618
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135658"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:56:58.148 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection53 
+2019-05-05 13:57:08.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064628
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135708"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:57:08.141 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection54 
+2019-05-05 13:57:18.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064638
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135718"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:57:18.140 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection55 
+2019-05-05 13:57:28.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064648
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135728"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:57:28.154 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection56 
+2019-05-05 13:57:38.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064658
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135738"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:57:38.145 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection57 
+2019-05-05 13:57:48.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064668
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135748"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:57:48.181 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection58 
+2019-05-05 13:57:58.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064678
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135758"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:57:58.146 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection59 
+2019-05-05 13:58:08.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064688
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135808"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:58:08.164 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection60 
+2019-05-05 13:58:18.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064698
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135818"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:58:18.144 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection61 
+2019-05-05 13:58:28.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064708
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135828"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:58:28.184 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection62 
+2019-05-05 13:58:38.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064718
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135838"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:58:38.165 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection63 
+2019-05-05 13:58:48.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064728
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135848"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:58:48.169 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection64 
+2019-05-05 13:58:58.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064738
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135858"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:58:58.165 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection65 
+2019-05-05 13:59:08.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064748
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135908"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:59:08.170 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection66 
+2019-05-05 13:59:18.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064758
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135918"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:59:18.177 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection67 
+2019-05-05 13:59:28.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064768
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135928"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:59:28.156 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection68 
+2019-05-05 13:59:38.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064778
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135938"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:59:38.153 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection69 
+2019-05-05 13:59:48.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064788
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135948"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:59:48.186 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection70 
+2019-05-05 13:59:58.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064798
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505135958"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 13:59:58.170 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection71 
+2019-05-05 14:00:08.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064808
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140008"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:00:08.173 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection72 
+2019-05-05 14:00:18.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064818
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140018"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:00:18.177 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection73 
+2019-05-05 14:00:28.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064828
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140028"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:00:28.171 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection74 
+2019-05-05 14:00:38.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064838
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140038"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:00:38.184 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection75 
+2019-05-05 14:00:48.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064848
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140048"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:00:48.166 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection76 
+2019-05-05 14:00:58.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064858
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140058"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:00:58.177 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection77 
+2019-05-05 14:01:08.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064868
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140108"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:01:08.181 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection78 
+2019-05-05 14:01:18.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064878
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140118"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:01:18.149 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection79 
+2019-05-05 14:01:28.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064888
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140128"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:01:28.173 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection80 
+2019-05-05 14:01:38.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064898
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140138"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:01:38.166 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection81 
+2019-05-05 14:01:48.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064908
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140148"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:01:48.173 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection82 
+2019-05-05 14:01:58.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064918
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140158"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:01:58.164 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection83 
+2019-05-05 14:02:08.068 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064928
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140208"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:02:08.185 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection84 
+2019-05-05 14:02:18.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064938
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140218"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:02:18.170 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection85 
+2019-05-05 14:02:28.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064948
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140228"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:02:28.173 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection86 
+2019-05-05 14:02:38.076 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064958
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140238"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:02:38.223 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection87 
+2019-05-05 14:02:48.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064968
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140248"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:02:48.168 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection88 
+2019-05-05 14:02:58.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064978
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140258"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:02:58.162 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection89 
+2019-05-05 14:03:08.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064988
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140308"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:03:08.177 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection90 
+2019-05-05 14:03:18.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557064998
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140318"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:03:18.184 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection91 
+2019-05-05 14:03:28.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065008
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140328"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:03:28.162 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection92 
+2019-05-05 14:03:38.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065018
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140338"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:03:38.150 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection93 
+2019-05-05 14:03:48.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065028
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140348"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:03:48.154 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection94 
+2019-05-05 14:03:58.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065038
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140358"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:03:58.164 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection95 
+2019-05-05 14:04:08.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065048
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140408"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:04:08.153 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection96 
+2019-05-05 14:04:18.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065058
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140418"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:04:18.188 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection97 
+2019-05-05 14:04:28.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065068
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140428"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:04:28.167 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection98 
+2019-05-05 14:04:38.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065078
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140438"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:04:38.183 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection99 
+2019-05-05 14:04:48.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065088
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140448"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:04:48.148 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection100 
+2019-05-05 14:04:58.066 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065098
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140458"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:04:58.190 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection101 
+2019-05-05 14:05:08.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065108
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140508"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:05:08.263 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection102 
+2019-05-05 14:05:18.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065118
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140518"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:05:18.288 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection103 
+2019-05-05 14:05:28.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065128
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140528"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:05:28.257 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection104 
+2019-05-05 14:05:38.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065138
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140538"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:05:38.265 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection105 
+2019-05-05 14:05:48.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065148
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140548"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:05:48.267 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection106 
+2019-05-05 14:05:58.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065158
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140558"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:05:58.269 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection107 
+2019-05-05 14:06:08.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065168
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140608"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:06:08.257 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection108 
+2019-05-05 14:06:18.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065178
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140618"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:06:18.246 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection109 
+2019-05-05 14:06:28.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065188
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140628"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:06:28.261 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection110 
+2019-05-05 14:06:38.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065198
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140638"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:06:38.260 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection111 
+2019-05-05 14:06:48.349 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065208
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140648"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:06:48.491 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection112 
+2019-05-05 14:06:58.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065218
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140658"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:06:58.269 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection113 
+2019-05-05 14:07:08.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065228
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140708"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:07:08.273 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection114 
+2019-05-05 14:07:18.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065238
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140718"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:07:18.253 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection115 
+2019-05-05 14:07:28.082 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065248
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140728"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:07:28.233 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection116 
+2019-05-05 14:07:38.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065258
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140738"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:07:38.272 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection117 
+2019-05-05 14:07:48.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065268
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140748"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:07:48.244 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection118 
+2019-05-05 14:07:58.183 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065278
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140758"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:07:58.338 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection119 
+2019-05-05 14:08:08.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065288
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140808"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:08:08.260 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection120 
+2019-05-05 14:08:18.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065298
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140818"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:08:18.281 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection121 
+2019-05-05 14:08:28.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065308
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140828"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:08:28.282 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection122 
+2019-05-05 14:08:38.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065318
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140838"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:08:38.267 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection123 
+2019-05-05 14:08:48.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065328
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140848"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:08:48.265 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection124 
+2019-05-05 14:08:58.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065338
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140858"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:08:58.279 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection125 
+2019-05-05 14:09:08.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065348
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140908"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:09:08.272 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection126 
+2019-05-05 14:09:18.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065358
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140918"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:09:18.267 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection127 
+2019-05-05 14:09:28.176 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065368
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140928"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:09:28.303 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection128 
+2019-05-05 14:09:38.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065378
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140938"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:09:38.247 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection129 
+2019-05-05 14:09:48.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065388
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140948"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:09:48.248 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection130 
+2019-05-05 14:09:58.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065398
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505140958"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:09:58.247 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection131 
+2019-05-05 14:10:08.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065408
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141008"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:10:08.259 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection132 
+2019-05-05 14:10:18.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065418
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141018"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:10:18.298 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection133 
+2019-05-05 14:10:28.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065428
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141028"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:10:28.266 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection134 
+2019-05-05 14:10:38.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065438
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141038"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:10:38.293 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection135 
+2019-05-05 14:10:48.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065448
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141048"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:10:48.264 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection136 
+2019-05-05 14:10:58.168 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065458
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141058"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:10:58.267 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection137 
+2019-05-05 14:11:08.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065468
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141108"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:11:08.277 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection138 
+2019-05-05 14:11:18.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065478
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141118"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:11:18.262 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection139 
+2019-05-05 14:11:28.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065488
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141128"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:11:28.283 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection140 
+2019-05-05 14:11:38.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065498
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141138"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:11:38.293 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection141 
+2019-05-05 14:11:48.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065508
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141148"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:11:48.263 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection142 
+2019-05-05 14:11:58.100 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065518
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141158"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:11:58.254 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection143 
+2019-05-05 14:12:08.177 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065528
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141208"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:12:08.319 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection144 
+2019-05-05 14:12:18.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065538
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141218"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:12:18.271 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection145 
+2019-05-05 14:12:28.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065548
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141228"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:12:28.271 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection146 
+2019-05-05 14:12:38.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065558
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141238"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:12:38.291 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection147 
+2019-05-05 14:12:48.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065568
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141248"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:12:48.294 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection148 
+2019-05-05 14:12:58.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065578
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141258"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:12:58.245 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection149 
+2019-05-05 14:13:08.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065588
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141308"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:13:08.279 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection150 
+2019-05-05 14:13:18.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065598
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141318"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:13:18.278 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection151 
+2019-05-05 14:13:28.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065608
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141328"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:13:28.275 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection152 
+2019-05-05 14:13:38.168 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065618
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141338"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:13:38.252 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection153 
+2019-05-05 14:13:48.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065628
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141348"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:13:48.298 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection154 
+2019-05-05 14:13:58.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065638
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141358"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:13:58.249 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection155 
+2019-05-05 14:14:08.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065648
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141408"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:14:08.306 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection156 
+2019-05-05 14:14:18.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065658
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141418"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:14:18.241 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection157 
+2019-05-05 14:14:28.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065668
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141428"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:14:28.254 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection158 
+2019-05-05 14:14:38.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065678
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141438"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:14:38.261 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection159 
+2019-05-05 14:14:48.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065688
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141448"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:14:48.300 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection160 
+2019-05-05 14:14:58.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065698
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141458"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:14:58.275 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection161 
+2019-05-05 14:15:08.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065708
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141508"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:15:08.259 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection162 
+2019-05-05 14:15:18.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065718
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141518"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:15:18.257 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection163 
+2019-05-05 14:15:28.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065728
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141528"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:15:28.257 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection164 
+2019-05-05 14:15:38.171 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065738
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141538"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:15:38.280 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection165 
+2019-05-05 14:15:48.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065748
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141548"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:15:48.263 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection166 
+2019-05-05 14:15:58.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065758
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141558"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:15:58.240 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection167 
+2019-05-05 14:16:08.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065768
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141608"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:16:08.276 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection168 
+2019-05-05 14:16:18.168 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065778
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141618"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:16:18.281 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection169 
+2019-05-05 14:16:28.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065788
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141628"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:16:28.322 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection170 
+2019-05-05 14:16:38.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065798
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141638"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:16:38.263 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection171 
+2019-05-05 14:16:48.169 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065808
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141648"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:16:48.254 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection172 
+2019-05-05 14:16:58.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065818
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141658"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:16:58.260 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection173 
+2019-05-05 14:17:08.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065828
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141708"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:17:08.294 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection174 
+2019-05-05 14:17:18.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065838
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141718"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:17:18.275 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection175 
+2019-05-05 14:17:28.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065848
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141728"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:17:28.273 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection176 
+2019-05-05 14:17:38.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065858
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141738"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:17:38.260 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection177 
+2019-05-05 14:17:48.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065868
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141748"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:17:48.274 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection178 
+2019-05-05 14:17:58.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065878
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141758"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:17:58.249 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection179 
+2019-05-05 14:18:08.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065888
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141808"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:18:08.275 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection180 
+2019-05-05 14:18:18.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065898
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141818"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:18:18.243 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection181 
+2019-05-05 14:18:28.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065908
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141828"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:18:28.243 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection182 
+2019-05-05 14:18:38.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065918
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141838"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:18:38.239 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection183 
+2019-05-05 14:18:48.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065928
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141848"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:18:48.320 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection184 
+2019-05-05 14:18:58.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065938
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141858"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:18:58.259 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection185 
+2019-05-05 14:19:08.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065948
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141908"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:19:08.264 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection186 
+2019-05-05 14:19:18.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065958
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141918"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:19:18.246 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection187 
+2019-05-05 14:19:28.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065968
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141928"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:19:28.264 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection188 
+2019-05-05 14:19:38.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065978
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141938"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:19:38.290 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection189 
+2019-05-05 14:19:48.168 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065988
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141948"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:19:48.281 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection190 
+2019-05-05 14:19:58.167 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557065998
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505141958"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:19:58.250 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection191 
+2019-05-05 14:20:08.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557066008
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505142008"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:20:08.266 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection192 
+2019-05-05 14:20:18.166 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557066018
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505142018"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:20:18.243 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection193 
+2019-05-05 14:20:28.192 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557066028
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190505142028"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-05 14:20:28.319 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection194 

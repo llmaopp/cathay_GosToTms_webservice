@@ -1,0 +1,338 @@
+2019-05-06 12:25:23.363 [scheduling-1                  ] [INFO ] - DamageInspection 符合ID: 1557145458
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122418"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:23.384 [scheduling-1                  ] [INFO ] - DamageInspection对象生成DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:23.384 [scheduling-1                  ] [INFO ] - 转换成Java bean  DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:23.385 [scheduling-1                  ] [INFO ] - 调用DamageInspection第三方接口 
+2019-05-06 12:25:23.827 [scheduling-1                  ] [INFO ] - 转换成gooler proto格式ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122418"
+module_name: "Test"
+ 
+2019-05-06 12:25:23.828 [scheduling-1                  ] [INFO ] - DamageInspection与第一方闸口进行zmq通信type_url: "type.googleapis.com/gos.pb.DamageInspection"
+value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+ 
+2019-05-06 12:25:23.828 [scheduling-1                  ] [INFO ] - 转换成google proto 与javaBean转换异常 格式异常java.io.UnsupportedEncodingException: 未添加资产,请重新添加 
+2019-05-06 12:25:23.831 [scheduling-1                  ] [INFO ] - DamageInspection 符合ID: 1557145518
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122518"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:23.832 [scheduling-1                  ] [INFO ] - DamageInspection对象生成DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:23.832 [scheduling-1                  ] [INFO ] - 转换成Java bean  DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:23.833 [scheduling-1                  ] [INFO ] - 调用DamageInspection第三方接口 
+2019-05-06 12:25:23.906 [scheduling-1                  ] [INFO ] - 转换成gooler proto格式ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122518"
+module_name: "Test"
+ 
+2019-05-06 12:25:23.906 [scheduling-1                  ] [INFO ] - DamageInspection与第一方闸口进行zmq通信type_url: "type.googleapis.com/gos.pb.DamageInspection"
+value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+ 
+2019-05-06 12:25:23.906 [scheduling-1                  ] [INFO ] - 转换成google proto 与javaBean转换异常 格式异常java.io.UnsupportedEncodingException: 未添加资产,请重新添加 
+2019-05-06 12:25:23.912 [scheduling-1                  ] [INFO ] - DamageInspection 符合ID: 1557145468
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122428"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:23.912 [scheduling-1                  ] [INFO ] - DamageInspection对象生成DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:23.912 [scheduling-1                  ] [INFO ] - 转换成Java bean  DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:23.912 [scheduling-1                  ] [INFO ] - 调用DamageInspection第三方接口 
+2019-05-06 12:25:23.964 [scheduling-1                  ] [INFO ] - 转换成gooler proto格式ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122428"
+module_name: "Test"
+ 
+2019-05-06 12:25:23.964 [scheduling-1                  ] [INFO ] - DamageInspection与第一方闸口进行zmq通信type_url: "type.googleapis.com/gos.pb.DamageInspection"
+value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+ 
+2019-05-06 12:25:23.964 [scheduling-1                  ] [INFO ] - 转换成google proto 与javaBean转换异常 格式异常java.io.UnsupportedEncodingException: 未添加资产,请重新添加 
+2019-05-06 12:25:23.965 [scheduling-1                  ] [INFO ] - DamageInspection 符合ID: 1557145508
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122508"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:23.965 [scheduling-1                  ] [INFO ] - DamageInspection对象生成DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:23.965 [scheduling-1                  ] [INFO ] - 转换成Java bean  DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:23.965 [scheduling-1                  ] [INFO ] - 调用DamageInspection第三方接口 
+2019-05-06 12:25:24.011 [scheduling-1                  ] [INFO ] - 转换成gooler proto格式ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122508"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.011 [scheduling-1                  ] [INFO ] - DamageInspection与第一方闸口进行zmq通信type_url: "type.googleapis.com/gos.pb.DamageInspection"
+value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+ 
+2019-05-06 12:25:24.011 [scheduling-1                  ] [INFO ] - 转换成google proto 与javaBean转换异常 格式异常java.io.UnsupportedEncodingException: 未添加资产,请重新添加 
+2019-05-06 12:25:24.013 [scheduling-1                  ] [INFO ] - DamageInspection 符合ID: 1557145498
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122458"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.013 [scheduling-1                  ] [INFO ] - DamageInspection对象生成DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:24.013 [scheduling-1                  ] [INFO ] - 转换成Java bean  DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:24.013 [scheduling-1                  ] [INFO ] - 调用DamageInspection第三方接口 
+2019-05-06 12:25:24.066 [scheduling-1                  ] [INFO ] - 转换成gooler proto格式ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122458"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.066 [scheduling-1                  ] [INFO ] - DamageInspection与第一方闸口进行zmq通信type_url: "type.googleapis.com/gos.pb.DamageInspection"
+value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+ 
+2019-05-06 12:25:24.066 [scheduling-1                  ] [INFO ] - 转换成google proto 与javaBean转换异常 格式异常java.io.UnsupportedEncodingException: 未添加资产,请重新添加 
+2019-05-06 12:25:24.067 [scheduling-1                  ] [INFO ] - DamageInspection 符合ID: 1557145488
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122448"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.067 [scheduling-1                  ] [INFO ] - DamageInspection对象生成DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:24.067 [scheduling-1                  ] [INFO ] - 转换成Java bean  DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:24.067 [scheduling-1                  ] [INFO ] - 调用DamageInspection第三方接口 
+2019-05-06 12:25:24.100 [scheduling-1                  ] [INFO ] - 转换成gooler proto格式ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122448"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.100 [scheduling-1                  ] [INFO ] - DamageInspection与第一方闸口进行zmq通信type_url: "type.googleapis.com/gos.pb.DamageInspection"
+value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+ 
+2019-05-06 12:25:24.100 [scheduling-1                  ] [INFO ] - 转换成google proto 与javaBean转换异常 格式异常java.io.UnsupportedEncodingException: 未添加资产,请重新添加 
+2019-05-06 12:25:24.101 [scheduling-1                  ] [INFO ] - DamageInspection 符合ID: 1557145478
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122438"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.101 [scheduling-1                  ] [INFO ] - DamageInspection对象生成DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:24.101 [scheduling-1                  ] [INFO ] - 转换成Java bean  DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:24.101 [scheduling-1                  ] [INFO ] - 调用DamageInspection第三方接口 
+2019-05-06 12:25:24.135 [scheduling-1                  ] [INFO ] - 转换成gooler proto格式ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122438"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.135 [scheduling-1                  ] [INFO ] - DamageInspection与第一方闸口进行zmq通信type_url: "type.googleapis.com/gos.pb.DamageInspection"
+value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+ 
+2019-05-06 12:25:24.135 [scheduling-1                  ] [INFO ] - 转换成google proto 与javaBean转换异常 格式异常java.io.UnsupportedEncodingException: 未添加资产,请重新添加 
+2019-05-06 12:25:36.258 [scheduling-1                  ] [INFO ] - DamageInspection 符合ID: 1557145528
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122528"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:36.258 [scheduling-1                  ] [INFO ] - DamageInspection对象生成DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:36.259 [scheduling-1                  ] [INFO ] - 转换成Java bean  DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:36.259 [scheduling-1                  ] [INFO ] - 调用DamageInspection第三方接口 
+2019-05-06 12:25:36.305 [scheduling-1                  ] [INFO ] - 转换成gooler proto格式ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122528"
+module_name: "Test"
+ 
+2019-05-06 12:25:36.306 [scheduling-1                  ] [INFO ] - DamageInspection与第一方闸口进行zmq通信type_url: "type.googleapis.com/gos.pb.DamageInspection"
+value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+ 
+2019-05-06 12:25:36.306 [scheduling-1                  ] [INFO ] - 转换成google proto 与javaBean转换异常 格式异常java.io.UnsupportedEncodingException: 未添加资产,请重新添加 
+2019-05-06 12:25:39.609 [scheduling-1                  ] [INFO ] - DamageInspection 符合ID: 1557145538
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122538"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:39.609 [scheduling-1                  ] [INFO ] - DamageInspection对象生成DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:39.609 [scheduling-1                  ] [INFO ] - 转换成Java bean  DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:39.609 [scheduling-1                  ] [INFO ] - 调用DamageInspection第三方接口 
+2019-05-06 12:25:39.640 [scheduling-1                  ] [INFO ] - 转换成gooler proto格式ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122538"
+module_name: "Test"
+ 
+2019-05-06 12:25:39.640 [scheduling-1                  ] [INFO ] - DamageInspection与第一方闸口进行zmq通信type_url: "type.googleapis.com/gos.pb.DamageInspection"
+value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+ 
+2019-05-06 12:25:39.640 [scheduling-1                  ] [INFO ] - 转换成google proto 与javaBean转换异常 格式异常java.io.UnsupportedEncodingException: 未添加资产,请重新添加 
+2019-05-06 12:25:49.608 [scheduling-1                  ] [INFO ] - DamageInspection 符合ID: 1557145548
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122548"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:49.609 [scheduling-1                  ] [INFO ] - DamageInspection对象生成DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:49.609 [scheduling-1                  ] [INFO ] - 转换成Java bean  DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:49.609 [scheduling-1                  ] [INFO ] - 调用DamageInspection第三方接口 
+2019-05-06 12:25:49.643 [scheduling-1                  ] [INFO ] - 转换成gooler proto格式ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122548"
+module_name: "Test"
+ 
+2019-05-06 12:25:49.643 [scheduling-1                  ] [INFO ] - DamageInspection与第一方闸口进行zmq通信type_url: "type.googleapis.com/gos.pb.DamageInspection"
+value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+ 
+2019-05-06 12:25:49.643 [scheduling-1                  ] [INFO ] - 转换成google proto 与javaBean转换异常 格式异常java.io.UnsupportedEncodingException: 未添加资产,请重新添加 
+2019-05-06 12:26:04.311 [scheduling-1                  ] [INFO ] - DamageInspection 符合ID: 1557145558
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122558"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:26:04.312 [scheduling-1                  ] [INFO ] - DamageInspection对象生成DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:26:04.312 [scheduling-1                  ] [INFO ] - 转换成Java bean  DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:26:04.312 [scheduling-1                  ] [INFO ] - 调用DamageInspection第三方接口 
+2019-05-06 12:26:04.361 [scheduling-1                  ] [INFO ] - 转换成gooler proto格式ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122558"
+module_name: "Test"
+ 
+2019-05-06 12:26:04.361 [scheduling-1                  ] [INFO ] - DamageInspection与第一方闸口进行zmq通信type_url: "type.googleapis.com/gos.pb.DamageInspection"
+value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+ 
+2019-05-06 12:26:04.361 [scheduling-1                  ] [INFO ] - 转换成google proto 与javaBean转换异常 格式异常java.io.UnsupportedEncodingException: 未添加资产,请重新添加 
+2019-05-06 12:26:09.609 [scheduling-1                  ] [INFO ] - DamageInspection 符合ID: 1557145568
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122608"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:26:09.610 [scheduling-1                  ] [INFO ] - DamageInspection对象生成DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:26:09.610 [scheduling-1                  ] [INFO ] - 转换成Java bean  DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:26:09.611 [scheduling-1                  ] [INFO ] - 调用DamageInspection第三方接口 
+2019-05-06 12:26:09.659 [scheduling-1                  ] [INFO ] - 转换成gooler proto格式ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122608"
+module_name: "Test"
+ 
+2019-05-06 12:26:09.659 [scheduling-1                  ] [INFO ] - DamageInspection与第一方闸口进行zmq通信type_url: "type.googleapis.com/gos.pb.DamageInspection"
+value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+ 
+2019-05-06 12:26:09.659 [scheduling-1                  ] [INFO ] - 转换成google proto 与javaBean转换异常 格式异常java.io.UnsupportedEncodingException: 未添加资产,请重新添加 
+2019-05-06 12:26:19.611 [scheduling-1                  ] [INFO ] - DamageInspection 符合ID: 1557145578
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122618"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:26:19.612 [scheduling-1                  ] [INFO ] - DamageInspection对象生成DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:26:19.613 [scheduling-1                  ] [INFO ] - 转换成Java bean  DamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:26:19.613 [scheduling-1                  ] [INFO ] - 调用DamageInspection第三方接口 
+2019-05-06 12:26:19.716 [scheduling-1                  ] [INFO ] - 转换成gooler proto格式ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122618"
+module_name: "Test"
+ 
+2019-05-06 12:26:19.716 [scheduling-1                  ] [INFO ] - DamageInspection与第一方闸口进行zmq通信type_url: "type.googleapis.com/gos.pb.DamageInspection"
+value: "\nS\n\tMessageID\022\vMessageType\032\tTimestamp\"\vTransaction*\aVisitID2\004Lane:\022\b\322\t\022\rError_message"
+ 
+2019-05-06 12:26:19.717 [scheduling-1                  ] [INFO ] - 转换成google proto 与javaBean转换异常 格式异常java.io.UnsupportedEncodingException: 未添加资产,请重新添加 

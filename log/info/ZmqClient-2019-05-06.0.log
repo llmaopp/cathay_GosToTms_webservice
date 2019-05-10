@@ -1,0 +1,130 @@
+2019-05-06 12:25:23.829 [scheduling-1                  ] [INFO ] - Send: ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n3\022\arequest*\0011:%\b\361\a\022 googel proto \323\353javaBean \327\252\273\273\322\354\263\243\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122418"
+module_name: "Test"
+ 
+2019-05-06 12:25:23.831 [Thread-5                      ] [INFO ] - 消息发送成功 
+2019-05-06 12:25:23.907 [scheduling-1                  ] [INFO ] - Send: ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n3\022\arequest*\0011:%\b\361\a\022 googel proto \323\353javaBean \327\252\273\273\322\354\263\243\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122518"
+module_name: "Test"
+ 
+2019-05-06 12:25:23.912 [Thread-5                      ] [INFO ] - 消息发送成功 
+2019-05-06 12:25:23.964 [scheduling-1                  ] [INFO ] - Send: ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n3\022\arequest*\0011:%\b\361\a\022 googel proto \323\353javaBean \327\252\273\273\322\354\263\243\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122428"
+module_name: "Test"
+ 
+2019-05-06 12:25:23.965 [Thread-5                      ] [INFO ] - 消息发送成功 
+2019-05-06 12:25:24.012 [scheduling-1                  ] [INFO ] - Send: ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n3\022\arequest*\0011:%\b\361\a\022 googel proto \323\353javaBean \327\252\273\273\322\354\263\243\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122508"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.024 [Thread-5                      ] [INFO ] - 消息发送成功 
+2019-05-06 12:25:24.066 [scheduling-1                  ] [INFO ] - Send: ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n3\022\arequest*\0011:%\b\361\a\022 googel proto \323\353javaBean \327\252\273\273\322\354\263\243\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122458"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.068 [Thread-5                      ] [INFO ] - 消息发送成功 
+2019-05-06 12:25:24.100 [scheduling-1                  ] [INFO ] - Send: ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n3\022\arequest*\0011:%\b\361\a\022 googel proto \323\353javaBean \327\252\273\273\322\354\263\243\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122448"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.102 [Thread-5                      ] [INFO ] - 消息发送成功 
+2019-05-06 12:25:24.136 [scheduling-1                  ] [INFO ] - Send: ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n3\022\arequest*\0011:%\b\361\a\022 googel proto \323\353javaBean \327\252\273\273\322\354\263\243\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122438"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.141 [Thread-5                      ] [INFO ] - 消息发送成功 
+2019-05-06 12:25:36.306 [scheduling-1                  ] [INFO ] - Send: ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n3\022\arequest*\0011:%\b\361\a\022 googel proto \323\353javaBean \327\252\273\273\322\354\263\243\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122528"
+module_name: "Test"
+ 
+2019-05-06 12:25:36.307 [Thread-5                      ] [INFO ] - 消息发送成功 
+2019-05-06 12:25:39.640 [scheduling-1                  ] [INFO ] - Send: ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n3\022\arequest*\0011:%\b\361\a\022 googel proto \323\353javaBean \327\252\273\273\322\354\263\243\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122538"
+module_name: "Test"
+ 
+2019-05-06 12:25:39.641 [Thread-5                      ] [INFO ] - 消息发送成功 
+2019-05-06 12:25:49.643 [scheduling-1                  ] [INFO ] - Send: ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n3\022\arequest*\0011:%\b\361\a\022 googel proto \323\353javaBean \327\252\273\273\322\354\263\243\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122548"
+module_name: "Test"
+ 
+2019-05-06 12:25:49.645 [Thread-5                      ] [INFO ] - 消息发送成功 
+2019-05-06 12:26:04.362 [scheduling-1                  ] [INFO ] - Send: ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n3\022\arequest*\0011:%\b\361\a\022 googel proto \323\353javaBean \327\252\273\273\322\354\263\243\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122558"
+module_name: "Test"
+ 
+2019-05-06 12:26:04.364 [Thread-5                      ] [INFO ] - 消息发送成功 
+2019-05-06 12:26:09.660 [scheduling-1                  ] [INFO ] - Send: ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n3\022\arequest*\0011:%\b\361\a\022 googel proto \323\353javaBean \327\252\273\273\322\354\263\243\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122608"
+module_name: "Test"
+ 
+2019-05-06 12:26:09.661 [Thread-5                      ] [INFO ] - 消息发送成功 
+2019-05-06 12:26:19.717 [scheduling-1                  ] [INFO ] - Send: ID: 1
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n3\022\arequest*\0011:%\b\361\a\022 googel proto \323\353javaBean \327\252\273\273\322\354\263\243\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122618"
+module_name: "Test"
+ 
+2019-05-06 12:26:19.718 [Thread-5                      ] [INFO ] - 消息发送成功 

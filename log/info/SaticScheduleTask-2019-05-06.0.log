@@ -1,0 +1,143 @@
+2019-05-06 12:25:23.362 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557145458
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122418"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:23.829 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection0 
+2019-05-06 12:25:23.830 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557145518
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122518"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:23.910 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection6 
+2019-05-06 12:25:23.911 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557145468
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122428"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:23.964 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection1 
+2019-05-06 12:25:23.965 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557145508
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122508"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.012 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection5 
+2019-05-06 12:25:24.013 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557145498
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122458"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.066 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection4 
+2019-05-06 12:25:24.067 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557145488
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122448"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.101 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection3 
+2019-05-06 12:25:24.101 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557145478
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122438"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:24.136 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection2 
+2019-05-06 12:25:36.257 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557145528
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122528"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:36.306 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection7 
+2019-05-06 12:25:39.608 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557145538
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122538"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:39.640 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection8 
+2019-05-06 12:25:49.608 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557145548
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122548"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:25:49.644 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection9 
+2019-05-06 12:26:04.311 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557145558
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122558"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:26:04.362 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection10 
+2019-05-06 12:26:09.608 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557145568
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122608"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:26:09.660 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection11 
+2019-05-06 12:26:19.610 [scheduling-1                  ] [INFO ] - 接收数据： GateInOutProtoID: 1557145578
+any {
+  type_url: "type.googleapis.com/gos.pb.DamageInspection"
+  value: "\n\f\n\0011\022\arequest\022\032\n\000\n\022\n\vCAIU1234567*\003CXD\022\002LY"
+}
+msg_type: MSG_DAMAGEINSPECTION
+visit_id: "20190506122618"
+module_type: "GOS"
+module_name: "Test"
+ 
+2019-05-06 12:26:19.717 [scheduling-1                  ] [INFO ] - 删除缓存type.googleapis.com/gos.pb.DamageInspection12 

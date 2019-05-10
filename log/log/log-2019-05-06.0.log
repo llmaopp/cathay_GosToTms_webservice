@@ -1,0 +1,647 @@
+2019-05-06 12:15:41.846 [restartedMain                 ] [INFO ] - Starting DemoApplication on DESKTOP-B6M7L3N with PID 9728 (E:\workspace\cathay-webService\target\classes started by cathay in E:\workspace\cathay-webService) 
+2019-05-06 12:15:41.893 [restartedMain                 ] [INFO ] - No active profile set, falling back to default profiles: default 
+2019-05-06 12:15:42.163 [restartedMain                 ] [INFO ] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2019-05-06 12:15:42.226 [restartedMain                 ] [INFO ] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+2019-05-06 12:15:45.756 [restartedMain                 ] [INFO ] - Multiple Spring Data modules found, entering strict repository configuration mode! 
+2019-05-06 12:15:45.765 [restartedMain                 ] [INFO ] - Bootstrapping Spring Data repositories in DEFAULT mode. 
+2019-05-06 12:15:45.989 [restartedMain                 ] [INFO ] - Finished Spring Data repository scanning in 204ms. Found 0 repository interfaces. 
+2019-05-06 12:15:49.012 [restartedMain                 ] [INFO ] - Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$545ffcd4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying) 
+2019-05-06 12:15:49.096 [restartedMain                 ] [INFO ] - Supporting [WS-Addressing August 2004, WS-Addressing 1.0] 
+2019-05-06 12:15:50.063 [restartedMain                 ] [INFO ] - Tomcat initialized with port(s): 8084 (http) 
+2019-05-06 12:15:50.092 [restartedMain                 ] [INFO ] - Initializing ProtocolHandler ["http-nio-8084"] 
+2019-05-06 12:15:50.133 [restartedMain                 ] [INFO ] - Starting service [Tomcat] 
+2019-05-06 12:15:50.134 [restartedMain                 ] [INFO ] - Starting Servlet engine: [Apache Tomcat/9.0.17] 
+2019-05-06 12:15:50.384 [restartedMain                 ] [INFO ] - Initializing Spring embedded WebApplicationContext 
+2019-05-06 12:15:50.384 [restartedMain                 ] [INFO ] - Root WebApplicationContext: initialization completed in 8156 ms 
+2019-05-06 12:15:51.650 [restartedMain                 ] [INFO ] - Initializing ExecutorService 'applicationTaskExecutor' 
+2019-05-06 12:15:53.275 [restartedMain                 ] [INFO ] - Initializing ExecutorService 'taskScheduler' 
+2019-05-06 12:15:53.627 [restartedMain                 ] [WARN ] - Unable to start LiveReload server 
+2019-05-06 12:15:53.810 [restartedMain                 ] [INFO ] - Starting ProtocolHandler ["http-nio-8084"] 
+2019-05-06 12:15:53.872 [restartedMain                 ] [INFO ] - Tomcat started on port(s): 8084 (http) with context path '' 
+2019-05-06 12:15:53.880 [restartedMain                 ] [INFO ] - Started DemoApplication in 13.532 seconds (JVM running for 15.205) 
+2019-05-06 12:15:53.882 [restartedMain                 ] [INFO ] - 初始化... 
+2019-05-06 12:15:53.883 [restartedMain                 ] [INFO ] - 初始化成功 
+2019-05-06 12:25:23.785 [scheduling-1                  ] [INFO ] - running time 250 ms, post url: http://192.168.1.137:8083/getMap?reqSeq=1557116723536 ,param : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+, return : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspectionResponse>
+    <header>
+        <error>
+            <error_code>1234</error_code>
+            <error_message>Error_message</error_message>
+        </error>
+        <lane>Lane</lane>
+        <messageID>MessageID</messageID>
+        <messageType>MessageType</messageType>
+        <timestamp>Timestamp</timestamp>
+        <transaction>Transaction</transaction>
+        <visitID>VisitID</visitID>
+    </header>
+</damageInspectionResponse>
+ 
+2019-05-06 12:25:23.894 [scheduling-1                  ] [INFO ] - running time 44 ms, post url: http://192.168.1.137:8083/getMap?reqSeq=1557116723850 ,param : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+, return : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspectionResponse>
+    <header>
+        <error>
+            <error_code>1234</error_code>
+            <error_message>Error_message</error_message>
+        </error>
+        <lane>Lane</lane>
+        <messageID>MessageID</messageID>
+        <messageType>MessageType</messageType>
+        <timestamp>Timestamp</timestamp>
+        <transaction>Transaction</transaction>
+        <visitID>VisitID</visitID>
+    </header>
+</damageInspectionResponse>
+ 
+2019-05-06 12:25:23.959 [scheduling-1                  ] [INFO ] - running time 29 ms, post url: http://192.168.1.137:8083/getMap?reqSeq=1557116723929 ,param : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+, return : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspectionResponse>
+    <header>
+        <error>
+            <error_code>1234</error_code>
+            <error_message>Error_message</error_message>
+        </error>
+        <lane>Lane</lane>
+        <messageID>MessageID</messageID>
+        <messageType>MessageType</messageType>
+        <timestamp>Timestamp</timestamp>
+        <transaction>Transaction</transaction>
+        <visitID>VisitID</visitID>
+    </header>
+</damageInspectionResponse>
+ 
+2019-05-06 12:25:23.999 [scheduling-1                  ] [INFO ] - running time 26 ms, post url: http://192.168.1.137:8083/getMap?reqSeq=1557116723973 ,param : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+, return : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspectionResponse>
+    <header>
+        <error>
+            <error_code>1234</error_code>
+            <error_message>Error_message</error_message>
+        </error>
+        <lane>Lane</lane>
+        <messageID>MessageID</messageID>
+        <messageType>MessageType</messageType>
+        <timestamp>Timestamp</timestamp>
+        <transaction>Transaction</transaction>
+        <visitID>VisitID</visitID>
+    </header>
+</damageInspectionResponse>
+ 
+2019-05-06 12:25:24.060 [scheduling-1                  ] [INFO ] - running time 30 ms, post url: http://192.168.1.137:8083/getMap?reqSeq=1557116724030 ,param : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+, return : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspectionResponse>
+    <header>
+        <error>
+            <error_code>1234</error_code>
+            <error_message>Error_message</error_message>
+        </error>
+        <lane>Lane</lane>
+        <messageID>MessageID</messageID>
+        <messageType>MessageType</messageType>
+        <timestamp>Timestamp</timestamp>
+        <transaction>Transaction</transaction>
+        <visitID>VisitID</visitID>
+    </header>
+</damageInspectionResponse>
+ 
+2019-05-06 12:25:24.095 [scheduling-1                  ] [INFO ] - running time 20 ms, post url: http://192.168.1.137:8083/getMap?reqSeq=1557116724075 ,param : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+, return : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspectionResponse>
+    <header>
+        <error>
+            <error_code>1234</error_code>
+            <error_message>Error_message</error_message>
+        </error>
+        <lane>Lane</lane>
+        <messageID>MessageID</messageID>
+        <messageType>MessageType</messageType>
+        <timestamp>Timestamp</timestamp>
+        <transaction>Transaction</transaction>
+        <visitID>VisitID</visitID>
+    </header>
+</damageInspectionResponse>
+ 
+2019-05-06 12:25:24.129 [scheduling-1                  ] [INFO ] - running time 22 ms, post url: http://192.168.1.137:8083/getMap?reqSeq=1557116724107 ,param : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+, return : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspectionResponse>
+    <header>
+        <error>
+            <error_code>1234</error_code>
+            <error_message>Error_message</error_message>
+        </error>
+        <lane>Lane</lane>
+        <messageID>MessageID</messageID>
+        <messageType>MessageType</messageType>
+        <timestamp>Timestamp</timestamp>
+        <transaction>Transaction</transaction>
+        <visitID>VisitID</visitID>
+    </header>
+</damageInspectionResponse>
+ 
+2019-05-06 12:25:36.298 [scheduling-1                  ] [INFO ] - running time 26 ms, post url: http://192.168.1.137:8083/getMap?reqSeq=1557116736272 ,param : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+, return : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspectionResponse>
+    <header>
+        <error>
+            <error_code>1234</error_code>
+            <error_message>Error_message</error_message>
+        </error>
+        <lane>Lane</lane>
+        <messageID>MessageID</messageID>
+        <messageType>MessageType</messageType>
+        <timestamp>Timestamp</timestamp>
+        <transaction>Transaction</transaction>
+        <visitID>VisitID</visitID>
+    </header>
+</damageInspectionResponse>
+ 
+2019-05-06 12:25:39.635 [scheduling-1                  ] [INFO ] - running time 20 ms, post url: http://192.168.1.137:8083/getMap?reqSeq=1557116739615 ,param : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+, return : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspectionResponse>
+    <header>
+        <error>
+            <error_code>1234</error_code>
+            <error_message>Error_message</error_message>
+        </error>
+        <lane>Lane</lane>
+        <messageID>MessageID</messageID>
+        <messageType>MessageType</messageType>
+        <timestamp>Timestamp</timestamp>
+        <transaction>Transaction</transaction>
+        <visitID>VisitID</visitID>
+    </header>
+</damageInspectionResponse>
+ 
+2019-05-06 12:25:49.639 [scheduling-1                  ] [INFO ] - running time 25 ms, post url: http://192.168.1.137:8083/getMap?reqSeq=1557116749614 ,param : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+, return : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspectionResponse>
+    <header>
+        <error>
+            <error_code>1234</error_code>
+            <error_message>Error_message</error_message>
+        </error>
+        <lane>Lane</lane>
+        <messageID>MessageID</messageID>
+        <messageType>MessageType</messageType>
+        <timestamp>Timestamp</timestamp>
+        <transaction>Transaction</transaction>
+        <visitID>VisitID</visitID>
+    </header>
+</damageInspectionResponse>
+ 
+2019-05-06 12:26:04.355 [scheduling-1                  ] [INFO ] - running time 33 ms, post url: http://192.168.1.137:8083/getMap?reqSeq=1557116764322 ,param : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+, return : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspectionResponse>
+    <header>
+        <error>
+            <error_code>1234</error_code>
+            <error_message>Error_message</error_message>
+        </error>
+        <lane>Lane</lane>
+        <messageID>MessageID</messageID>
+        <messageType>MessageType</messageType>
+        <timestamp>Timestamp</timestamp>
+        <transaction>Transaction</transaction>
+        <visitID>VisitID</visitID>
+    </header>
+</damageInspectionResponse>
+ 
+2019-05-06 12:26:09.653 [scheduling-1                  ] [INFO ] - running time 33 ms, post url: http://192.168.1.137:8083/getMap?reqSeq=1557116769620 ,param : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+, return : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspectionResponse>
+    <header>
+        <error>
+            <error_code>1234</error_code>
+            <error_message>Error_message</error_message>
+        </error>
+        <lane>Lane</lane>
+        <messageID>MessageID</messageID>
+        <messageType>MessageType</messageType>
+        <timestamp>Timestamp</timestamp>
+        <transaction>Transaction</transaction>
+        <visitID>VisitID</visitID>
+    </header>
+</damageInspectionResponse>
+ 
+2019-05-06 12:26:19.706 [scheduling-1                  ] [INFO ] - running time 73 ms, post url: http://192.168.1.137:8083/getMap?reqSeq=1557116779633 ,param : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+, return : <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspectionResponse>
+    <header>
+        <error>
+            <error_code>1234</error_code>
+            <error_message>Error_message</error_message>
+        </error>
+        <lane>Lane</lane>
+        <messageID>MessageID</messageID>
+        <messageType>MessageType</messageType>
+        <timestamp>Timestamp</timestamp>
+        <transaction>Transaction</transaction>
+        <visitID>VisitID</visitID>
+    </header>
+</damageInspectionResponse>
+ 

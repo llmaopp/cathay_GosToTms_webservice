@@ -1,0 +1,238 @@
+syntax = "proto3";
+package gos.pb;
+
+import "google/protobuf/any.proto";
+import "google/protobuf/timestamp.proto"; 
+
+//string类型编码不支持中文，使用bytes类型，两种类型用法一样。
+
+//错误信息
+message Error
+{
+	int32 error_code = 1;     // 错误码
+	bytes error_message = 2;  // 错误信息
+}
+
+message TroScreenUpdate
+{
+	repeated Column column_arr = 1;
+	repeated Row row_arr = 2;
+
+	message Column
+	{
+		int32 sequence = 1;
+		bytes column_header = 2;
+	}
+	message Row
+	{
+		repeated Item item_arr = 1;
+	}
+	message Item
+	{
+		int32 sequence = 1;
+		bytes column_value = 2;
+	}
+}
+
+message ScreenMessage
+{
+	bytes confirmation_button = 1;             //Indicates if confirmation button needs to be shown on screen.In case confirmation button is shown, kiosk process waits until button is selected. Otherwise screen is shown for x seconds (x = configurable GOS parameter).Y (show confirmation button)/N (do not show confirmation button)
+	int32 screen_message_code = 2;             //Child element of <screen_message>
+	bytes screen_message_text = 3;             //Child element of <screen_message>, contains the text that will be displayed as-is on the kiosk screen. Include literal '\n' to force a newline on the kiosk.
+}
+
+message UnitOcrData
+{
+	repeated UnitBundle unit_bundle_arr = 1;   //
+	bytes iso_code = 2;                        //ISO code.In case of bundle: ISO code of master.
+	bytes position = 3;                        //Unit position on chassis:F (front)M (middle)A (aft)
+	bytes door_direction = 4;                  //Door direction:F (front)B (back) U (unknown - e.g. in case of tank or bundle)
+	bytes clip_on = 5;                         //Mandatory if clip-on check is enabled.Clip-on (external gen-set) presence:Y (clip-on present)N (no clip-on present)
+	bytes tank_rail = 6;                       //Mandatory if tank check is enabled.Tank rail presence:top (only top rail present)bottom (only bottom rail present)top_bottom (top and bottom rail present)none (no top and no bottom rail present)
+	bytes seal_presence = 7;                   //Seal presence:Y (seal present)N (no seal present)U (seal presence not detectable / door not visible)
+	bytes e_seal_state = 8;                    //Mandatory if container has e-seal (based on context data):E-seal state:OK/wrong_position/no_e_seal
+	bytes overheight = 9;                      //Mandatory if open-top check is enabled and ISO code in open-top or flat-rack ISO code table.Overheight:Y/N
+	bytes dg_presence = 10;                    //Dangerous goods label presence:Y (dangerous goods label(s) present)N (no dangerous goods label present)
+	bytes dg_class = 11;                       //Mandatory if dg_presence = Y.Dangerous goods label class. (Multiple instances possible. )
+	bytes flatrack_header_down = 12;           //Mandatory if flat-rack header check is enabled and ISO code in flat-rack ISO code table.Flatrack header down:Y (flatrack header down)/N (flatrack header up)
+
+	message UnitBundle
+	{
+		bytes unit_number  = 1;                //Unit number (= container number or flatrack number).In case of a bundle there will be multiple unit numbers.
+		bytes bundle_master = 2;               //Mandatory if bundle (indicated by operator).Attribute of unit_number. Indicates if unit_number belongs to master:Y (unit_number is master)N (unit_number is not master)
+	}
+}
+
+// 与TMS通信头信息
+message Header
+{
+	bytes messageID = 1;        // 消息id
+	bytes messageType = 2;      // 消息传输类型，request/reply
+	bytes timestamp = 3;        // 时间戳
+	bytes transaction = 4;      // 消息类型，Echo、Damage等
+	bytes visitID = 5;          // 箱号识别结果
+	bytes lane = 6;             // 车道
+	repeated Error err_arr = 7; // 错误信息，无错误时为空
+}
+
+message DamageInspectionBody
+{
+	repeated Unit unit_arr = 1;
+	bytes operator_id = 2;//Operator ID (username)
+
+	message Unit
+	{
+		bytes unit_number = 1;                  //Container for unit damage data.
+		bytes has_damage = 2;                   //Indicates whether the unit has damage or not:Y - unit has damage;N - unit does not have damage
+		bytes damage_location = 3;              //Damage location code. (Codes are maintained in GOS. )
+		bytes damage_type = 4;                  //Damage type code. (Codes are maintained in GOS. )Mandatory in case damage = Y.
+		bytes damage_description = 5;           //Damage description (free text).Mandatory in case damage = Y.
+		bytes damage_level = 6;                 //Damage level:minor/major; Mandatory in case damage = Y.
+	}
+}
+
+message OcrDataBody
+{
+	bytes passage_timestamp = 1;                //OCR portal passage timestamp, format ISO 8601, local time, e.g. 2003-02-20T15:53:51.
+	bytes rfid_license_plate_tag = 2;           //RFID license plate tag.Can be more than one tag.
+ 	OriginalOcrData original_ocr_data = 3;      //Parent element for original, unmodified by an operator, OCR data.
+	UpdatedOcrData updated_ocr_data = 4;        //Parent element for updated OCR data (processed by the operator).
+	bytes operator_id = 5;                      //Mandatory if operator has verified OCR data.Operator ID (username).
+	bytes snapshot_location = 6;                //Snapshot location: full Windows file path to camera gate passage zip file.E.g. F:\ICG2\20160714\QQCTN-ICG220160714-040505-61583.zip
+
+	message OriginalOcrData
+	{
+	bytes truck_license_plate  = 1;
+	repeated Unit unit_arr = 2;
+
+		message Unit
+		{
+			bytes unit_numbers = 1;              //可能多个箱号 以逗号分割
+			bytes iso_code = 2;                  //ISO码
+			bytes position  = 3;                 // Unit position on chassis:F (front) M (middle) A (aft)
+			bytes door_direction =4;             //Door direction:F (front) B (back) U (unknown - e.g. in case of tank or bundle)
+			bytes clip_on = 5;                   //Mandatory if clip-on check is enabled.Clip-on (external gen-set) presence:Y (clip-on present) N (no clip-on present)
+			bytes tank_rail = 6;                 //Mandatory if tank check is enabled.Tank rail presence:top (only top rail present)bottom (only bottom rail present)top_bottom (top and bottom rail present)none (no top and no bottom rail present)
+			bytes seal_presence = 7;             //Seal presence:Y (seal present)N (no seal present)U (seal presence not detectable / door not visible)
+		}
+	}
+
+	message UpdatedOcrData
+	{
+		bytes truck_license_plate  = 1;
+		repeated UnitOcrData unit_arr = 2;
+	}
+}
+
+message LaneEntryBody
+{
+	bytes process_start_timestamp = 1; //Process start timestamp, when the first interaction at the process point takes place. Format ISO 8601, local time, e.g. 2003-02-20T15:53:51.
+	bytes rfid_license_plate_tag = 2;  //RFID license plate tag.Can be more than one tag.
+	bytes truck_license_plate = 3;     //Truck license plate.
+	bytes has_driver_card = 4;         //Indicates if driver has truck driver card:Y (driver has card)N (driver does not have card)
+	bytes driver_card_number = 5;      //Truck driver card Mifare serial number.Mandatory if has_truck_driver_card = 'Y'
+	ScreenMessage screen_message = 6;  //Screen message shown on kiosk screen
+	bytes print = 7;                   //Indicates if ticket needs to be printed:Y (print ticket)N (do not print ticket)
+	bytes print_data = 8;              //Print data. Mandatory if print = 'Y'.<br> indicates new line.
+	bytes manual_check = 9;            //Indicates if an (additional) manual check by an operator needs to be done.
+	bytes manual_message = 10;         //Message to the operator handling the manual empty inspection check.
+	bytes open_barrier = 11;           //Indicates if lane exit traffic barrier can be opened:Y (open barrier)N (do not open barrier)
+	bytes process_end = 12;            //Indicates if the kiosk process is finished:Y (process is finished)N (process is not finished)
+}
+
+message GateDataBody
+{
+	bytes rfid_license_plate_tag = 1;            //Process start timestamp, when the first interaction at the process point takes place. Format ISO 8601, local time, e.g. 2003-02-20T15:53:51.
+	bytes truck_license_plate = 2;               //RFID license plate tag.Can be more than one tag.
+	bytes driver_card_number = 3;                //Truck license plate.
+	bytes gross_weight = 4;                      //Gross weight in kg. of truck with trailer and containers
+	bytes cargo_card_number = 5;                 //Cargo card Mifare serial number.
+	repeated UnitOcrData verified_ocr_data = 6;  //Container for verified OCR data.
+	bytes pick_up_position  = 7;                 //Position for pick-up container, indicated by driver.Mandatory if in previous message reply indicate_pick_up_position = 'Y'.
+	bytes seal_number = 8;                       //Seal number.Mandatory if in previous message reply enter_seal_number = 'Y'.
+	bytes non_containerized_cargo = 9;           //Indicates if the cargo is noncontainerized.Y (non-containerized cargo)N (containerized cargo)
+	bytes indicate_pick_up_position = 10;        //Indicates if the driver needs to select the pick-up container position.Mandatory if cargo_card_number is included in request message.Y (driver needs to indicate pick-up container position)N (driver does not need to indicate pick-up container position)
+	bytes enter_seal_number = 11;                //Indicates if the driver needs to input seal number.Y (driver needs to input seal number)N (driver does not need to input seal number)
+	ScreenMessage screen_message = 12;           //Screen message shown on kiosk screen.
+	bytes print = 13;                            //Indicates if ticket needs to be printed:Y (print ticket)N (do not print ticket)
+	bytes print_data = 14;                       //Print data. Mandatory if print = 'Y'.<br> indicates new line.
+	bytes manual_check = 15;                     //Indicates if an (additional) manual check by an operator needs to be done.
+	bytes manual_message = 16;                   //Message to the operator handling the manual empty inspection check.
+	bytes open_barrier = 17;                     //Indicates if lane exit traffic barrier can be opened:Y (open barrier)N (do not open barrier)
+	bytes process_end = 18;                      //Indicates if the kiosk process is finished:Y (process is finished)N (process is not finished)
+}
+
+//===================================================================================
+enum MSG_TYPE
+{
+	MSG_ZERO = 0;
+	MSG_DAMAGEINSPECTION = 1;  //验残
+	MSG_OCRDATA = 2;           //OCR采集数据
+	MSG_OCRDATAGT = 3;         //OCR采集数据新增
+	MSG_LANEENTRY = 4;         //LaneEntry
+	MSG_GATEDATA = 5;          //GateData
+}
+
+message GOSAny
+{
+	int32 ID = 1;                   // 消息序号, 每次递增
+    google.protobuf.Any any = 2;    // 任意一种消息, 可根据 type_url 确定消息类型
+	//以上为适应CRS模块，两个字段保持不变
+
+	MSG_TYPE msg_type = 3;//枚举定义的消息类型
+	bytes visit_id = 4;
+	bytes module_type = 5;
+	bytes module_name = 6;
+}
+
+message DamageInspection
+{
+	Header header = 1;
+	DamageInspectionBody body = 2;
+}
+
+message OcrData
+{
+	Header header = 1;
+	OcrDataBody body = 2;
+}
+
+message LaneEntry
+{
+	Header header = 1;
+	LaneEntryBody body = 2;
+}
+
+message GateData
+{
+	Header header = 1;
+	GateDataBody body = 2;
+}
+
+message OcrDataGT
+{
+	Header header = 1;
+	GateDataBody body = 2;
+	bytes isManual = 3;
+}
+//===================================================================================
+
+//<OcrDataGT>
+//<header>
+//...........header中的内容格式与现在CAMCO使用的一致
+//</header>
+//<body>
+//...........body中的内容格式与现在CAMCO使用的一致
+//</body>
+//</OcrDataGT>
+
+//TMS返回：
+//<OcrDataResponseGT>
+//<header>
+//...........header中的内容格式与现在CAMCO使用的一致
+//</header>
+//<body>
+//     <isManual>Y</isManual> //Y表示需要弹出人工校验，N表示不需要
+//</body>
+//</OcrDataResponseGT>
+

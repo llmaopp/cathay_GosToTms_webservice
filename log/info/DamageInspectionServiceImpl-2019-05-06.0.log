@@ -1,0 +1,455 @@
+2019-05-06 12:25:23.385 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参modelDamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:23.533 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+地址http://192.168.1.137:8083/getMap 
+2019-05-06 12:25:23.809 [scheduling-1                  ] [INFO ] - DamageInspectionServiceImpl调用第三方接口返回的数据Result{code=OK, errorDescription=null, dataObject=DamageInspectionResponse{header=Header{messageID='MessageID', messageType='MessageType', timestamp='Timestamp', transaction='Transaction', visitID='VisitID', lane='Lane', error=Error{error_code='1234', error_message='Error_message'}}}, falg=null} 
+2019-05-06 12:25:23.833 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参modelDamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:23.850 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+地址http://192.168.1.137:8083/getMap 
+2019-05-06 12:25:23.904 [scheduling-1                  ] [INFO ] - DamageInspectionServiceImpl调用第三方接口返回的数据Result{code=OK, errorDescription=null, dataObject=DamageInspectionResponse{header=Header{messageID='MessageID', messageType='MessageType', timestamp='Timestamp', transaction='Transaction', visitID='VisitID', lane='Lane', error=Error{error_code='1234', error_message='Error_message'}}}, falg=null} 
+2019-05-06 12:25:23.912 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参modelDamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:23.929 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+地址http://192.168.1.137:8083/getMap 
+2019-05-06 12:25:23.963 [scheduling-1                  ] [INFO ] - DamageInspectionServiceImpl调用第三方接口返回的数据Result{code=OK, errorDescription=null, dataObject=DamageInspectionResponse{header=Header{messageID='MessageID', messageType='MessageType', timestamp='Timestamp', transaction='Transaction', visitID='VisitID', lane='Lane', error=Error{error_code='1234', error_message='Error_message'}}}, falg=null} 
+2019-05-06 12:25:23.966 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参modelDamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:23.973 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+地址http://192.168.1.137:8083/getMap 
+2019-05-06 12:25:24.011 [scheduling-1                  ] [INFO ] - DamageInspectionServiceImpl调用第三方接口返回的数据Result{code=OK, errorDescription=null, dataObject=DamageInspectionResponse{header=Header{messageID='MessageID', messageType='MessageType', timestamp='Timestamp', transaction='Transaction', visitID='VisitID', lane='Lane', error=Error{error_code='1234', error_message='Error_message'}}}, falg=null} 
+2019-05-06 12:25:24.014 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参modelDamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:24.029 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+地址http://192.168.1.137:8083/getMap 
+2019-05-06 12:25:24.065 [scheduling-1                  ] [INFO ] - DamageInspectionServiceImpl调用第三方接口返回的数据Result{code=OK, errorDescription=null, dataObject=DamageInspectionResponse{header=Header{messageID='MessageID', messageType='MessageType', timestamp='Timestamp', transaction='Transaction', visitID='VisitID', lane='Lane', error=Error{error_code='1234', error_message='Error_message'}}}, falg=null} 
+2019-05-06 12:25:24.067 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参modelDamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:24.075 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+地址http://192.168.1.137:8083/getMap 
+2019-05-06 12:25:24.100 [scheduling-1                  ] [INFO ] - DamageInspectionServiceImpl调用第三方接口返回的数据Result{code=OK, errorDescription=null, dataObject=DamageInspectionResponse{header=Header{messageID='MessageID', messageType='MessageType', timestamp='Timestamp', transaction='Transaction', visitID='VisitID', lane='Lane', error=Error{error_code='1234', error_message='Error_message'}}}, falg=null} 
+2019-05-06 12:25:24.101 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参modelDamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:24.107 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+地址http://192.168.1.137:8083/getMap 
+2019-05-06 12:25:24.134 [scheduling-1                  ] [INFO ] - DamageInspectionServiceImpl调用第三方接口返回的数据Result{code=OK, errorDescription=null, dataObject=DamageInspectionResponse{header=Header{messageID='MessageID', messageType='MessageType', timestamp='Timestamp', transaction='Transaction', visitID='VisitID', lane='Lane', error=Error{error_code='1234', error_message='Error_message'}}}, falg=null} 
+2019-05-06 12:25:36.259 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参modelDamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:36.272 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+地址http://192.168.1.137:8083/getMap 
+2019-05-06 12:25:36.304 [scheduling-1                  ] [INFO ] - DamageInspectionServiceImpl调用第三方接口返回的数据Result{code=OK, errorDescription=null, dataObject=DamageInspectionResponse{header=Header{messageID='MessageID', messageType='MessageType', timestamp='Timestamp', transaction='Transaction', visitID='VisitID', lane='Lane', error=Error{error_code='1234', error_message='Error_message'}}}, falg=null} 
+2019-05-06 12:25:39.609 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参modelDamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:39.615 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+地址http://192.168.1.137:8083/getMap 
+2019-05-06 12:25:39.639 [scheduling-1                  ] [INFO ] - DamageInspectionServiceImpl调用第三方接口返回的数据Result{code=OK, errorDescription=null, dataObject=DamageInspectionResponse{header=Header{messageID='MessageID', messageType='MessageType', timestamp='Timestamp', transaction='Transaction', visitID='VisitID', lane='Lane', error=Error{error_code='1234', error_message='Error_message'}}}, falg=null} 
+2019-05-06 12:25:49.609 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参modelDamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:25:49.614 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+地址http://192.168.1.137:8083/getMap 
+2019-05-06 12:25:49.643 [scheduling-1                  ] [INFO ] - DamageInspectionServiceImpl调用第三方接口返回的数据Result{code=OK, errorDescription=null, dataObject=DamageInspectionResponse{header=Header{messageID='MessageID', messageType='MessageType', timestamp='Timestamp', transaction='Transaction', visitID='VisitID', lane='Lane', error=Error{error_code='1234', error_message='Error_message'}}}, falg=null} 
+2019-05-06 12:26:04.312 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参modelDamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:26:04.322 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+地址http://192.168.1.137:8083/getMap 
+2019-05-06 12:26:04.361 [scheduling-1                  ] [INFO ] - DamageInspectionServiceImpl调用第三方接口返回的数据Result{code=OK, errorDescription=null, dataObject=DamageInspectionResponse{header=Header{messageID='MessageID', messageType='MessageType', timestamp='Timestamp', transaction='Transaction', visitID='VisitID', lane='Lane', error=Error{error_code='1234', error_message='Error_message'}}}, falg=null} 
+2019-05-06 12:26:09.611 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参modelDamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:26:09.620 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+地址http://192.168.1.137:8083/getMap 
+2019-05-06 12:26:09.658 [scheduling-1                  ] [INFO ] - DamageInspectionServiceImpl调用第三方接口返回的数据Result{code=OK, errorDescription=null, dataObject=DamageInspectionResponse{header=Header{messageID='MessageID', messageType='MessageType', timestamp='Timestamp', transaction='Transaction', visitID='VisitID', lane='Lane', error=Error{error_code='1234', error_message='Error_message'}}}, falg=null} 
+2019-05-06 12:26:19.613 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参modelDamageInspection{body=DamageInspectionModel{units=Untisone{unit=[UntisTwo{unit_number='', has_damage='', damage_location='', damage_type='', damage_description='', damage_level='', visitID='null', lane='null'}, UntisTwo{unit_number='CAIU1234567', has_damage='', damage_location='', damage_type='', damage_description='CXD', damage_level='', visitID='null', lane='null'}], operator_id='LY'}}, header=Header{messageID='1', messageType='request', timestamp='', transaction='', visitID='', lane='', error=null}} 
+2019-05-06 12:26:19.632 [scheduling-1                  ] [INFO ] - 第三方DamageInspectionUrl接口请求入参<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<damageInspection>
+    <body>
+        <units>
+            <operator_id>LY</operator_id>
+            <unit>
+                <damage_description></damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number></unit_number>
+            </unit>
+            <unit>
+                <damage_description>CXD</damage_description>
+                <damage_level></damage_level>
+                <damage_location></damage_location>
+                <damage_type></damage_type>
+                <has_damage></has_damage>
+                <unit_number>CAIU1234567</unit_number>
+            </unit>
+        </units>
+    </body>
+    <header>
+        <lane></lane>
+        <messageID>1</messageID>
+        <messageType>request</messageType>
+        <timestamp></timestamp>
+        <transaction></transaction>
+        <visitID></visitID>
+    </header>
+</damageInspection>
+地址http://192.168.1.137:8083/getMap 
+2019-05-06 12:26:19.715 [scheduling-1                  ] [INFO ] - DamageInspectionServiceImpl调用第三方接口返回的数据Result{code=OK, errorDescription=null, dataObject=DamageInspectionResponse{header=Header{messageID='MessageID', messageType='MessageType', timestamp='Timestamp', transaction='Transaction', visitID='VisitID', lane='Lane', error=Error{error_code='1234', error_message='Error_message'}}}, falg=null} 
